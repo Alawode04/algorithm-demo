@@ -1,0 +1,22 @@
+PROBLEM: Write an Algorithm that reads the sentence and determine the;
+  [a]Length of the sentence
+  [b]Number of words in the sentence
+  [c]Number of vowels in the sentence
+
+       SOLUTION.
+Create a varialbe holding;
+   sentence, wordCount, vowelChar, vowelCount.
+
+THE SENTENCE:  Read the sentence.
+    
+On getting to a space add 1 to wordCount
+
+Continue counting until you get to point
+
+Read vowelChar: {aeiou}
+
+Read sentence char by char
+
+If sentence char match any vowelChar
+
+Add one to vowelCount
