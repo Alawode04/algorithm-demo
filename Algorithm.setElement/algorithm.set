@@ -15,5 +15,6 @@ PROBLEM:
  Check if set 2 element is not present in set 1
  if true add the element to sum
 
- Print sum
+ Print sum.
+ 
       
