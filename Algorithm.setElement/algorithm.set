@@ -1,0 +1,20 @@
+PROBLEM:
+   Write an algorithm that fulfills these descriptions;
+    [a] Find the sum of all distinct element of the sets
+    [b] Find the sum of all element which are present in either of the given sets
+
+  SOLUTION.
+    Create a varialbe that holds all the sum
+    create a variable for set 1 and set 2
+
+   Read set 1
+  Check if set 1 element is not present in set 2
+  if true add the element to sum
+
+  Read set 2
+ Check if set 2 element is not present in set 1
+ if true add the element to sum
+
+ Print sum.
+ 
+      
